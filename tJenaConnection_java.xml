@@ -116,10 +116,10 @@
 
 	<CODEGENERATION>
 		<IMPORTS>
-			<IMPORT NAME="fuseki" MODULE="fuseki-server.jar" REQUIRED="true" />
-			<IMPORT NAME="jena_talend_connector" MODULE="jena_talend_connector.jar" REQUIRED="true" />
-			<IMPORT NAME="jena_jdbc" MODULE="virtjdbc3.jar" REQUIRED="true" />
-			<IMPORT NAME="jena_virtuoso_own" MODULE="virt_jena_own.jar" REQUIRED="true" />
+			<!--<IMPORT NAME="fuseki" MODULE="fuseki-server.jar" REQUIRED="true" />-->
+			<IMPORT NAME="jena_talend_connector" MODULE="talend_jena_connector.jar" REQUIRED="true" />
+			<!--<IMPORT NAME="jena_jdbc" MODULE="virtjdbc3.jar" REQUIRED="true" />
+			<IMPORT NAME="jena_virtuoso_own" MODULE="virt_jena_own.jar" REQUIRED="true" />-->
 		</IMPORTS>
 	</CODEGENERATION>
 
